@@ -1,0 +1,142 @@
+{
+    "basics": {
+        "name": "Vinay",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1119@iiitkota.ac.in",
+        "phone": "+919896829108",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "H-15 Suncity",
+            "postalCode": "124001",
+            "city": "Rohtak",
+            "countryCode": " India",
+            "region": "Haryana"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "@VinayMa60103953",
+                "url": "https://twitter.com/VinayMa60103953"
+            },
+            {
+                "network": "Github",
+                "username": "",
+                "url": "https://github.com/bllamond"
+            },
+            {
+                "network": "linkedin",
+                "username": "Vinay Malik",
+                "url": "https://www.linkedin.com/in/vinaaymalik/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "Coding Ninjas",
+            "position": "Ninja Entrepreneur",
+            "website": "https://www.codingninjas.com/",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "9",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": ",
+            "keywords": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "Git",
+                "C/C++",
+                "",
+                "Python",
+                "Dart",
+                "Wordpress"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton"
+            ]
+        }
+    ]
+}
