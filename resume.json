@@ -8,7 +8,7 @@
         "website": "",
         "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
         "location": {
-            "address": "H-15 Suncity",
+            "address": "",
             "postalCode": "124001",
             "city": "Rohtak",
             "countryCode": " India",
@@ -100,8 +100,8 @@
             "name": "",
             "level": ",
             "keywords": [
-                "",
-                "",
+                "HTML",
+                "CSS",
                 "",
                 "",
                 "",
@@ -126,7 +126,7 @@
     ],
     "interests": [
         {
-            "name": "Singing",
+            "name": "",
             "keywords": [
                 ""
             ]
